@@ -12,7 +12,7 @@ Este proyecto es una aplicación en Node.js que permite procesar imágenes (redu
 
 1. **Clonar el repositorio**:
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone  https://github.com/tu-usuario/ImageOptimizerPro.git
     cd image-processor
     ```
 
